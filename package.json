@@ -6,9 +6,10 @@
   "scripts": {
     "start": "nodemon app"
   },
-  "author": "Sunny",
+  "author": "ZeroCho",
   "license": "ISC",
   "dependencies": {
+    "@google/maps": "^0.4.6",
     "axios": "^0.18.0",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.4",
